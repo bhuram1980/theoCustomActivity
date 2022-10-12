@@ -15,10 +15,10 @@
     "execute": {
       "inArguments": [
         {
-          "emailAddress": "{{InteractionDefaults.Email}}"
+          "emailAddress": "btirumaladixit@gmail.com"
         },
         {
-          "phoneNumber": "{{Contact.Default.PhoneNumber}}"
+          "phoneNumber": "14088325780"
         }
       ],
       "outArguments": [
