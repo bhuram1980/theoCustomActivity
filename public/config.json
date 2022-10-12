@@ -26,21 +26,21 @@
           "foundSignupDate": ""
         }
       ],
-      "url": "https://some-endpoint.com/execute"
+      "url": "https://theocustom.herokuapp.com/execute"
     }
   },
   "configurationArguments": {
     "save": {
-      "url": "URI/for/your/activity/save"
+      "url": "https://theocustom.herokuapp.com/save"
     },
     "publish": {
-      "url": "URI/for/your/activity/publish"
+      "url": "https://theocustom.herokuapp.com/publish"
     },
     "validate": {
-      "url": "URI/for/your/activity/validate"
+      "url": "https://theocustom.herokuapp.com/validate"
     },
     "stop": {
-      "url": "URI/for/your/activity/stop"
+      "url": "https://theocustom.herokuapp.com/stop"
     }
   },
   "wizardSteps": [
